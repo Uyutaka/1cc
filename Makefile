@@ -8,4 +8,4 @@ test: 1cc
 clean:
 	rm -f 1cc *.o *~ tmp*
 
-.PHONY: test cl ean
+.PHONY: test clean
